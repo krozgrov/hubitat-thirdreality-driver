@@ -4,7 +4,7 @@ metadata {
     definition(
         name: "ThirdReality Temp/Humidity Sensor",
         namespace: "hubitat",
-        author: "thirdreality",
+        author: "krozgrov",
         runLocally: true,
         minHubCoreVersion: '000.017.0012',
         executeCommandsLocally: false,
